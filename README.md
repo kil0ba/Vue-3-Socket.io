@@ -20,14 +20,14 @@ are you looking for old documentation? <a href="https://github.com/MetinSeylan/V
 
 #### 🚀 Installation
 ``` bash
-npm install vue-socket.io --save
+npm install vue-3-socket.io --save
 ```
 ##### Using Connection String
 ``` javascript
 import Vue from 'vue'
 import store from './store'
 import App from './App.vue'
-import VueSocketIO from 'vue-socket.io'
+import VueSocketIO from 'vue-3-socket.io'
 
 Vue.use(new VueSocketIO({
     debug: true,
@@ -52,7 +52,7 @@ new Vue({
 import Vue from 'vue'
 import store from './store'
 import App from './App.vue'
-import VueSocketIO from 'vue-socket.io'
+import VueSocketIO from 'vue-3-socket.io'
 import SocketIO from 'socket.io-client'
 
 const options = { path: '/my-app/' }; //Options object to pass into SocketIO

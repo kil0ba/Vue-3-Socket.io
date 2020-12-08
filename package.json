@@ -1,7 +1,7 @@
 {
   "name": "vue-3-socket.io",
   "author": "David Gurshumov <gurshumov.david@gmail.com>",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "socket.io implementation for Vue.js and Vuex",
   "main": "dist/vue-socketio.js",
   "scripts": {
