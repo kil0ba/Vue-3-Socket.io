@@ -5,19 +5,10 @@
 </p> 
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/vue-socket.io"><img src="https://img.shields.io/npm/v/vue-socket.io.svg"/> <img src="https://img.shields.io/npm/dt/vue-socket.io.svg"/></a>
-  <a href="https://github.com/vuejs/awesome-vue"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
-  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue-2.x-brightgreen.svg"/></a>
-  <a href="http://packagequality.com/#?package=vue-socket.io"><img src="http://npm.packagequality.com/shield/vue-socket.io.svg"/></a>
-  <a href="https://github.com/MetinSeylan/Vue-Socket.io/"><img src="https://img.shields.io/npm/l/vue-socket.io.svg"/></a>
-  <a href="https://github.com/MetinSeylan/Vue-Socket.io/"><img src="https://img.shields.io/github/stars/MetinSeylan/Vue-Socket.io.svg"/></a>
+  <a href="https://github.com/kil0ba/Vue-3-Socket.io"><img src="https://img.shields.io/github/stars/kil0ba/Vue-3-Socket.io.svg"/></a>
 </p>
-<p align="center">
-<a href="https://www.patreon.com/MetinSeylan">
-	<img alt="Patreon" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="50" />
-</a>
-</p>
-<p>Vue-Socket.io is a socket.io integration for Vuejs, easy to use, supporting Vuex and component level socket consumer managements<p>
+<p>Vue-3-Socket.io is a Vue 3 compatibility version of <a href="https://github.com/MetinSeylan/Vue-Socket.io">this repo</a><p>
+<p>All thanks to its <a href="https://github.com/MetinSeylan">author</a></p>
 
 ###### Demo
 - <a href="http://metinseylan.com/vuesocketio/" target="_blank">Chat Application</a>
@@ -179,14 +170,3 @@ export default new Vuex.Store({
     }
 })
 ```
-
-## Stargazers over time
-
-[![Stargazers over time](https://starcharts.herokuapp.com/MetinSeylan/Vue-Socket.io.svg)](https://starcharts.herokuapp.com/MetinSeylan/Vue-Socket.io)
-   
-
-<p align="center">
-    <a href="https://github.com/MetinSeylan/Vue-Socket.io" target="_blank">
-    <img src="https://media.giphy.com/media/11jlnltQgUi2mQ/giphy.gif">
-    </a>
-</p> 
