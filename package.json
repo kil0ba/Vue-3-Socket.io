@@ -25,9 +25,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kilba/Vue-3-Socket.io/issues"
+    "url": "https://github.com/kil0ba/Vue-3-Socket.io/issues"
   },
-  "homepage": "https://github.com/kilba/Vue-3-Socket.io",
+  "homepage": "https://github.com/kil0ba/Vue-3-Socket.io",
   "dependencies": {
     "socket.io-client": "^2.1.1"
   },
