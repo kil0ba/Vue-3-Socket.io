@@ -4,6 +4,8 @@ import Listener from './listener';
 import Emitter from './emitter';
 import SocketIO from 'socket.io-client';
 
+const version = 3;
+
 export default class VueSocketIO {
 
     /**
