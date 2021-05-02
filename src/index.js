@@ -29,7 +29,7 @@ export default class VueSocketIO {
      * @param Vue
      */
     install(Vue){
-        if (version >= +Vue.version.split('.')[0]) {
+        if (version <= +Vue.version.split('.')[0]) {
             Vue.config.globalProperties.$socket = this.io;
             Vue.config.globalProperties.$vueSocketIo = this;
         } else {
