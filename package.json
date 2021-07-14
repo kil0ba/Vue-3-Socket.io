@@ -29,7 +29,9 @@
   },
   "homepage": "https://github.com/kil0ba/Vue-3-Socket.io",
   "dependencies": {
-    "socket.io-client": "^2.1.1"
+    "socket.io-client": "^2.4.0",
+    "vue": "^3.1.2",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
