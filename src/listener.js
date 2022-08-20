@@ -16,9 +16,7 @@ export default class VueSocketIOListener {
             'reconnect_failed',
             'connect_error',
             'connect_timeout',
-            'connecting',
-            'ping',
-            'pong'
+            'connecting'
     ];
 
     constructor(io, emitter){
