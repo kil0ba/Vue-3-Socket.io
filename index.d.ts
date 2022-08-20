@@ -1,5 +1,6 @@
 import { Socket } from "socket.io-client";
 import { App } from "vue";
+// @ts-ignore: VueX is an optional dependency
 import type { Store } from "vuex";
 
 interface socketHandler<T> {
